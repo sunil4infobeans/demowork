@@ -1,3 +1,4 @@
+# Demowork for learning symfony2
 # symblog tutorial - Creating a blog in Symfony2
 
 ## Introduction
